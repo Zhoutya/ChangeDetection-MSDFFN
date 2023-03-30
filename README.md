@@ -17,11 +17,11 @@ The bi-temporal HSIs are passed through the temporal feature extraction sub-netw
 ![flowchart](flowchart.jpg)
 
 
-###Requirements
+### Requirements
 Python 3.9  <br />
 PyTorch 1.10.2  <br />
 
-###Citation
+### Citation
 Please cite our paper if you use this code in your research.
 ```c  
 F. Luo, T. Zhou, J. Liu, T. Guo, X. Gong and J. Ren, "Multiscale Diff-Changed Feature Fusion Network for Hyperspectral Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-13, 2023, Art no. 5502713, doi: 10.1109/TGRS.2023.3241097.
@@ -38,5 +38,5 @@ F. Luo, T. Zhou, J. Liu, T. Guo, X. Gong and J. Ren, "Multiscale Diff-Changed Fe
   doi={10.1109/TGRS.2023.3241097}}
 ```
 
-###License
+### License
 Code and datasets are released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
